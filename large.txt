@@ -1,0 +1,11 @@
+10 20
+B-S  B-E  R-SE B-NW B-SE B-SE B-E  R-NE B-N  B-S  R-NE B-W  B-S  R-E  B-SW R-NW B-N  R-NE B-NE B-NW 
+R-SW R-NE B-N  B-NE B-NW R-W  R-NE R-W  R-NE B-NW R-NE R-NW B-SW R-S  B-SW B-NW R-E  B-S  B-SW R-NE 
+B-E  R-S  B-NE B-S  B-SE B-NW R-SE R-S  R-NW B-W  B-SE R-N  R-E  R-S  B-SW B-N  R-S  R-SW R-N  R-W 
+R-N  R-S  R-W  R-E  B-SW R-SE B-NW B-N  R-NW B-NE R-S  R-NE B-E  R-S  R-SE B-S  R-S  B-NW B-SW B-E 
+R-SE R-NW B-NW B-E  B-N  B-NE R-SE R-W  R-E  B-E  B-NW B-NE B-SE R-E  R-NW R-NW B-NE R-NW B-S  B-SE 
+R-N  B-NE R-S  R-E  R-SW B-NW R-NE R-E  R-NE B-SE R-W  B-NW R-E  R-NE R-S  R-SE R-N  R-SE R-E  R-W 
+B-SE R-NW R-NW B-NE R-S  B-S  B-NE R-W  R-N  B-W  R-N  B-NW R-NE B-E  B-W  R-SW R-S  B-SE B-SE R-SW 
+B-E  R-N  R-W  R-SW R-S  R-W  B-SE B-SE B-N  R-N  R-NW B-S  R-S  R-E  R-N  R-NW R-NE R-N  R-E  R-SW 
+R-E  R-W  R-SW R-E  R-SE R-S  B-E  R-NW B-E  B-SW R-SW B-SE R-N  B-NW R-W  R-SW R-NW R-SE R-SW R-SE 
+R-S  R-NW B-SW B-NE R-SE B-N  B-N  R-SE R-W  R-NW B-N  R-SE B-W  R-SE B-E  R-NW R-NE R-NW R-E  O 
